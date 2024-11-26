@@ -1,3 +1,4 @@
+package Rekursif;
 public class Percobaan1 {
 
     static int faktorialRekursif(int n) {
